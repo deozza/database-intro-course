@@ -238,7 +238,7 @@ C'est pour cela que les cardinalités sont toujours en couples (une pour chaque 
 
 **Exemple :**
 
-![MCD](../assets/database/MCD_UML_1.gif)
+![MCD](../assets/MCD_UML_1.gif)
 
 Dans cet MCD, on a une relation entre l'entité ARTICLE et l'entité LIGNE COMMANDE. Il faut lire :
 
