@@ -1,5 +1,9 @@
 # Introduction aux bases de données <!-- omit in toc -->
 
+**ATTENTION :**
+
+Ce repository est archivé et ne sera plus mis à jour. Pour suivre le cours actuel, veuillez vous rendre [ici](https://github.com/deozza/modelisation/tree/main/Merise) 
+
 ## Sommaire <!-- omit in toc -->
 
 - [Définition](#définition)
